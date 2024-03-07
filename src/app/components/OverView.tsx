@@ -4,16 +4,16 @@ const OverView = () => {
   return (
     <div className="w-[900px] mt-4 z-20 flex flex-col gap-5 max-lg:w-96">
       <p className="z-30">
-        Kohli's playing style is widely regarded as aggressive, a trait that
-        extends to his leadership on the field. Kohli is known as a skilled
+        Kohli&apos;s playing style is widely regarded as aggressive, a trait
+        that extends to his leadership on the field. Kohli is known as a skilled
         batsman who plays with determination and energy. In one-day cricket, he
         usually bats at number three and stands with his chest slightly open and
-        holds the bottom of his bat firmly. He's praised for his quick footwork,
-        wide range of shots, and his talent for leading innings, especially in
-        high-pressure situations. Instead of trying to hit big shots, Kohli
-        prefers to play safe shots close to the ground. People admire his
-        ability to make wrist shots and consistently perform well in the
-        mid-wicket and cover areas. Kohli is known for his composed batting
+        holds the bottom of his bat firmly. He&apos;s praised for his quick
+        footwork, wide range of shots, and his talent for leading innings,
+        especially in high-pressure situations. Instead of trying to hit big
+        shots, Kohli prefers to play safe shots close to the ground. People
+        admire his ability to make wrist shots and consistently perform well in
+        the mid-wicket and cover areas. Kohli is known for his composed batting
         technique and versatility in his play. He scores runs between long-off
         and long-on with an aligned bat, while also possessing the ability to
         display a destructive streak. His combination of bat-speed and supple
@@ -28,12 +28,13 @@ const OverView = () => {
         in the ICC rankings for ODI batsmen for the first time.[11] Virat also
         became one of the valuable Indian captain in Test cricket with 40 test
         wins, 16 of which came overseas and gained highest winning percentage as
-        captain in both Tests and ODIs. Kohli was ranked eighth in ESPN's list
-        of world's most famous sportspeople in 2016.[12] Virat is the only
-        current player to have a stand named after him in Delhi's Firoz Shah
-        Kotla stadium to Honour his contributions to Indian cricket. Kohli won
-        ICC Test Player of the Year and ICC ODI Player of the Year awards in
-        2018, becoming the first player to win both awards in the same year.[13]
+        captain in both Tests and ODIs. Kohli was ranked eighth in ESPN&apos;s
+        list of world&apos;s most famous sportspeople in 2016.[12] Virat is the
+        only current player to have a stand named after him in Delhi&apos;s
+        Firoz Shah Kotla stadium to Honour his contributions to Indian cricket.
+        Kohli won ICC Test Player of the Year and ICC ODI Player of the Year
+        awards in 2018, becoming the first player to win both awards in the same
+        year.[13]
       </p>
 
       <h1 className="text-xl font-bold text-gray-500 z-30">Profile</h1>
@@ -41,7 +42,7 @@ const OverView = () => {
         A spunky, chubby teenager with gelled hair shot to fame after leading
         India to glory in the Under-19 World Cup at Kuala Lumpur in early 2008.
         In an Indian team filled with saint-like icons worthy of their own
-        hagiographies, Virat Kohli, with his most un-Indian, 'bad-boy'
+        hagiographies, Virat Kohli, with his most un-Indian, &apos;bad-boy&apos;
         intensity, would clearly be an outcast.
       </p>
       <h1 className="text-xl font-bold text-gray-500">
@@ -60,12 +61,13 @@ const OverView = () => {
         clearly demonstrating that he belonged at a much higher level; that
         junior cricket was beneath his standards. Kohli then traveled to
         Australia in 2009 for the Emerging players tournament and stamped his
-        authority all over the bowling attacks. He added 'big-match temperament'
-        to his résumé too, lacing a fluent hundred in the final against South
-        Africa, and guiding his team to a clinical victory. The young prodigy,
-        barely old enough to receive his man-of-the-match champagne, ended the
-        tournament with 398 runs from 7 outings with two centuries and two
-        fifties, ensuring that he remained fresh in the selectors' minds.
+        authority all over the bowling attacks. He added &apos;big-match
+        temperament&apos; to his résumé too, lacing a fluent hundred in the
+        final against South Africa, and guiding his team to a clinical victory.
+        The young prodigy, barely old enough to receive his man-of-the-match
+        champagne, ended the tournament with 398 runs from 7 outings with two
+        centuries and two fifties, ensuring that he remained fresh in the
+        selectors&apos; minds.
       </p>
       <h1 className="text-xl font-bold text-gray-500">
         Cementing a national spot
@@ -80,7 +82,7 @@ const OverView = () => {
         World Cup final of 2011, the biggest stage of them all, Kohli, along
         with his Delhi teammate Gautam Gambhir, pulled off a largely underrated
         rescue effort with an 83-run stand after losing the openers early. This
-        knock played a crucial role in setting the platform for MS Dhoni's
+        knock played a crucial role in setting the platform for MS Dhoni&apos;s
         fabled knock of 91*, which eventually won India the World Cup on that
         enchanting evening in Mumbai.
       </p>
@@ -97,7 +99,7 @@ const OverView = () => {
         exhibited the back-foot shots in his repertoire during the course of the
         innings. The volatile Kohli managed to overshadow his impropriety in
         conduct with his performance in the final Test of the series. Notching
-        up India's only century of a disastrous tour, Kohli was the shining
+        up India&apos;s only century of a disastrous tour, Kohli was the shining
         light in amidst the chaos, as he stroked his way to a hundred in
         Adelaide exhibiting the will to improve and extraordinary focus under
         pressure in the searing heat and pressure of Australia.
@@ -108,10 +110,10 @@ const OverView = () => {
       </h2>
 
       <p className="z-30">
-        We remember the accolades, but where did it all begin? There's always
-        the one innings that made the world sit up and take notice; the 86-ball
-        knock which he started off as a brash boy, but ended as a man. Chasing
-        an improbable target of 321 off 40 overs to stay alive in the
+        We remember the accolades, but where did it all begin? There&apos;s
+        always the one innings that made the world sit up and take notice; the
+        86-ball knock which he started off as a brash boy, but ended as a man.
+        Chasing an improbable target of 321 off 40 overs to stay alive in the
         tournament, he laid into the Sri Lankan bowlers and carted his way to
         133*, getting India home with more than 2 overs to spare, practically
         pulling them out of the airport after M.S. Dhoni rather ignorantly
@@ -142,13 +144,13 @@ const OverView = () => {
       <p className="z-30">
         With regular captain MS Dhoni ailing from an injury, Kohli was named
         stand-in captain for the first Test at Adelaide. After an abysmal tour
-        of England, critics were sceptical of Kohli's performance in Australia
-        in the Border-Gavaskar trophy in December. Kohli proved that they
-        couldn't have been more wrong, as he scored two fluent hundreds in the
-        first Test at Adelaide. His second innings masterclass of 141 almost
-        pulled off a stunning run-chase on a notorious 5th day rank-turner, and
-        went on to score a total of four hundreds on this tour. Saying that he
-        had silenced critics would be an understatement.
+        of England, critics were sceptical of Kohli&apos;s performance in
+        Australia in the Border-Gavaskar trophy in December. Kohli proved that
+        they couldn&apos;t have been more wrong, as he scored two fluent
+        hundreds in the first Test at Adelaide. His second innings masterclass
+        of 141 almost pulled off a stunning run-chase on a notorious 5th day
+        rank-turner, and went on to score a total of four hundreds on this tour.
+        Saying that he had silenced critics would be an understatement.
       </p>
       <h2 className="text-xl font-bold text-gray-500">The final frontier</h2>
 
@@ -163,20 +165,20 @@ const OverView = () => {
         conquer his (personal) final frontier in England later in 2018 too,
         scoring 593 runs in 10 innings, including 2 hundreds, and not conceding
         his wicket to his fabled nemesis, Anderson, even once. India went on to
-        lose the series 1-4, and Kohli's record as captain was tainted by two
-        consecutive Test series losses away.
+        lose the series 1-4, and Kohli&apos;s record as captain was tainted by
+        two consecutive Test series losses away.
       </p>
 
       <h2 className="text-xl font-bold text-gray-500">IPL through the years</h2>
 
       <p className="z-30">
-        Ahead of the 2019 edition of the Indian Premier League (IPL), Virat
-        Kohli showed how much faith he had in the franchise by declaring that he
-        would perhaps end his career with the Bangalore-based Royal Challengers.
-        The only player to be a part of a single franchise for the entire
-        duration of the tournament (right from the start of the cash-rich league
-        in 2008), Kohli has developed an affection with the franchise and with
-        the fans over the period of time.
+        Ahead of the 2019 edition of the Indian Premier League Virat Kohli
+        showed how much faith he had in the franchise by declaring that he would
+        perhaps end his career with the Bangalore-based Royal Challengers. The
+        only player to be a part of a single franchise for the entire duration
+        of the tournament (right from the start of the cash-rich league in
+        2008), Kohli has developed an affection with the franchise and with the
+        fans over the period of time.
       </p>
     </div>
   );
