@@ -144,7 +144,7 @@ const OverView = () => {
       <p className="z-30">
         With regular captain MS Dhoni ailing from an injury, Kohli was named
         stand-in captain for the first Test at Adelaide. After an abysmal tour
-        of England, critics were sceptical of Kohli&apos;s performance in
+        of England, critics were sceptical of Kohli&apos;2s performance in
         Australia in the Border-Gavaskar trophy in December. Kohli proved that
         they couldn&apos;t have been more wrong, as he scored two fluent
         hundreds in the first Test at Adelaide. His second innings masterclass

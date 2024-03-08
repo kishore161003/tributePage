@@ -14,7 +14,7 @@ const DisplayDetails = () => {
   };
 
   return (
-    <div className="mt-10 ml-5 z-30">
+    <div className="mt-10 ml-5 z-30 text-white ">
       <div>
         <div className="flex flex-row gap-20 z-50 max-lg:gap-6">
           <div className="flex flex-col gap-4">
