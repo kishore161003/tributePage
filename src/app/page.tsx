@@ -11,7 +11,7 @@ export default function Home() {
       <div className="flex flex-row max-lg:flex-col max-lg:overflow-y-scroll">
         <HeroCard />
         <div className="flex flex-col -mt-5 h-screen">
-          <div className="overflow-y-scroll">
+          <div className="md:overflow-y-auto">
             {" "}
             <MainContent />
             <DisplayDetails />

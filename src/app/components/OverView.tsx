@@ -2,7 +2,7 @@ import React from "react";
 
 const OverView = () => {
   return (
-    <div className="w-[900px] mt-4 z-20 flex flex-col gap-5 max-lg:w-96">
+    <div className="w-[900px] mt-4 z-20 flex flex-col gap-5 max-lg:w-[90%]">
       <p className="z-30">
         Kohli&apos;s playing style is widely regarded as aggressive, a trait
         that extends to his leadership on the field. Kohli is known as a skilled
